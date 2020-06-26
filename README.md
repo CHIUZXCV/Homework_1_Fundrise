@@ -1,13 +1,10 @@
 # Homework_1_Fundrise
 Fundrise Case Study
-# HOMEWORK-1
-Homework #1 for research on a FinTech company
-# Here is the Case Study
 
-# FUNDRISE E-REIT CASE STUDY
+## FUNDRISE E-REIT CASE STUDY
 ![markdown-image](Fundrise.jpg)
 
-## Overview and Origin
+### Overview and Origin
 
 **Name of company**
 *Fundrise
@@ -28,7 +25,7 @@ Homework #1 for research on a FinTech company
 
 *The company is a private entity; they have raised $55mm through 7 funding rounds. 
 
-## Business Activities:
+### Business Activities:
 
 **What specific financial problem is the company or project trying to solve?**
 
@@ -42,15 +39,16 @@ Homework #1 for research on a FinTech company
 
 *Fundrise offers "Advanced Strategies" for individuals who invest more than $10,000 into their platform. These "Advanced Strategies" offer further diversification and different investment strategies. For younger audiences, this amount of $10,000 may be difficult to capture. 
 
-What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
-One of Fundrise's strongest competitive advantages was being a pioneer in the usage of SEC Regulation A+. This regulation made it more accessible for non-accredited investors to invest in these platforms. Previously, Fundrise only accepted accredited investors; but opened up to the masses once the SEC passed this regulation in 2016.
+**What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)**
+
+*One of Fundrise's strongest competitive advantages was being a pioneer in the usage of SEC Regulation A+. This regulation made it more accessible for non-accredited investors to invest in these platforms. Previously, Fundrise only accepted accredited investors; but opened up to the masses once the SEC passed this regulation in 2016.
 
 **Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)**
 
 *Fundrise utilizes technology in a few ways. Through it's propietary model, Fundrise vets multiple real estate opportunities; and only invests in a small % of them (from which users' funds are allocated). Fundrise also partners up with distinct tax entities to provide schedule K1's to all investors; this is motly an automated process. Finally, Fundrise hires multiple engineers to maintain the app, website and productivity of the company. 
 
 
-## Landscape:
+### Landscape:
 
 **What domain of the financial industry is the company in?**
 
@@ -64,7 +62,7 @@ One of Fundrise's strongest competitive advantages was being a pioneer in the us
 
 *There have been more estate crowdfunding competitors; including Realty Mogul, RealtyShares, and Patch of Land.
 
-## Results
+### Results
 
 **What has been the business impact of this company so far?**
 
@@ -83,7 +81,7 @@ One of Fundrise's strongest competitive advantages was being a pioneer in the us
 *From the numbers listed above, Fundrise seems to be outperforming it's competitors. One could argue though; that with higher requirements of funding, there may be better services provided through more investment opportunities, more opportunities for liquidiation, and a more sophisticated user interface. 
 
 
-## Recommendations
+### Recommendations
 
 **If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)**
 
@@ -97,7 +95,15 @@ One of Fundrise's strongest competitive advantages was being a pioneer in the us
 
 *I believe it would just use the technology Fundrise already offers. As an aside, I believe that Fundrise would have better usage for their efforts in marketing intiatives to attract a wider customer base. 
 
-Sources:
+### Sources
+``` python
+x = ['Fundrise (https://fundrise.com/)','Fundrise Review (https://idealrei.com/blog/fundrise-review)','SEC (https://www.sec.gov/info/smallbus/secg/regulation-a-amendments-secg.shtml)','Fundrise Competitors (https://www.crowdcrux.com/alternatives-to-fundrise/)','Crunchbase (https://www.crunchbase.com/organization/fundrise)']
+
+``` python
+For Sources in x:
+    print(x)
+
+
 Fundrise (https://fundrise.com/)
 Fundrise Review (https://idealrei.com/blog/fundrise-review)
 SEC (https://www.sec.gov/info/smallbus/secg/regulation-a-amendments-secg.shtml)
