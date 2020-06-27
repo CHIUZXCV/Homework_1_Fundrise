@@ -7,6 +7,7 @@ Fundrise Case Study
 ### Overview and Origin
 
 **Name of company**
+
 *Fundrise
 
 **When was the company incorporated?**
